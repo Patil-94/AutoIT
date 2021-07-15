@@ -1,0 +1,6 @@
+com/bridgelabz/selenium/pages/UploadProfile.java
+ com.bridgelabz.selenium.pages.UploadProfile
+com/bridgelabz/selenium/pages/Login.java
+ com.bridgelabz.selenium.pages.Login
+com/bridgelabz/selenium/base/Base.java
+ com.bridgelabz.selenium.base.Base
